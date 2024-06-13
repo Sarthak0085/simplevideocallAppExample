@@ -1,11 +1,19 @@
-This repo is created using React as Frontend and Node-Express as Backend
+# Getting Started
 
-To Start this repo :-
+To start this repo, follow these steps:
 
+1. Navigate to the frontend directory :-
+   
+```bash
 cd frontend
 npm i
 npm run dev
+```
 
+2. Navigate to the backend directory :- 
+
+```bash
 cd backend
 tsc -b
 node dist/index.js
+```
